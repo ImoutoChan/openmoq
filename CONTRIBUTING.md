@@ -10,9 +10,9 @@ This repository's focus is on the development of Moq (i.e. fixing bugs and impro
 
 ## Submitting a bug report (as an issue)
 
-If you think you've found a bug, please start by searching [the changelog](https://github.com/moq/moq/blob/main/CHANGELOG.md) and [GitHub issues](https://github.com/moq/moq/issues) (both open and closed ones!) to see if the problem has already been addressed or documented in any way.
+If you think you've found a bug, please start by searching [the changelog](https://github.com/ImoutoChan/openmoq/blob/main/CHANGELOG.md) and [GitHub issues](https://github.com/ImoutoChan/openmoq/issues) (both open and closed ones!) to see if the problem has already been addressed or documented in any way.
 
-If you find nothing of relevance, [open a new issue](https://github.com/moq/moq/issues/new).
+If you find nothing of relevance, [open a new issue](https://github.com/ImoutoChan/openmoq/issues/new).
 
 
 **What to include:** Try to include the following information in it:

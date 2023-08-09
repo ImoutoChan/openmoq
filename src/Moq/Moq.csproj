@@ -16,19 +16,19 @@
 	<PropertyGroup>
 		<!-- Properties related to NuGet packaging: -->
 		<IsPackable>True</IsPackable>
-		<PackageId>Moq</PackageId>
-		<Title>Moq: an enjoyable mocking library</Title>
-		<Description>Moq is the most popular and friendly mocking framework for .NET.</Description>
+		<PackageId>OpenMoq</PackageId>
+		<Title>OpenMoq: an enjoyable mocking library</Title>
+		<Description>Fork of Moq, which is the most popular and friendly mocking framework for .NET. But without malware.</Description>
 		<Authors>Daniel Cazzulino, kzu</Authors>
 		<Copyright>Copyright (c) 2007, Clarius Consulting, Manas Technology Solutions, InSTEDD, and Contributors. All rights reserved.</Copyright>
 		<PackageIcon>icon.png</PackageIcon>
 		<PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
 		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>A changelog is available at https://github.com/moq/moq/blob/main/CHANGELOG.md.</PackageReleaseNotes>
+    <PackageReleaseNotes>A changelog is available at https://github.com/ImoutoChan/openmoq/blob/main/CHANGELOG.md.</PackageReleaseNotes>
     <NoPackageAnalysis>True</NoPackageAnalysis>
 		<PackageTags>moq;tdd;mocking;mocks;unittesting;agile;unittest</PackageTags>
-		<PackageProjectUrl>https://github.com/moq/moq</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/moq/moq</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/ImoutoChan/openmoq</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ImoutoChan/openmoq</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>

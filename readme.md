@@ -71,7 +71,7 @@ You can read more about the "why" and see some nice screenshots at [kzu's blog](
 
 ## Where?
 
-See our [Quickstart](https://github.com/ImoutoChan/openmoq/wiki/Quickstart) examples to get a feeling of the extremely simple API and install from [NuGet](http://nuget.org/packages/moq).
+See our [Quickstart](https://github.com/ImoutoChan/openmoq/wiki/Quickstart) examples to get a feeling of the extremely simple API and install from [NuGet](http://nuget.org/packages/openmoq).
 
 Read about the announcement at [kzu's blog](https://web.archive.org/web/20201130233544/http://blogs.clariusconsulting.net/kzu/linq-to-mock-moq-is-born/). Get some background on [the state of mock libraries from Scott Hanselman](http://www.hanselman.com/blog/MoqLinqLambdasAndPredicatesAppliedToMockObjects.aspx).
 

@@ -12,6 +12,7 @@ The format is loosely based on [Keep a Changelog](http://keepachangelog.com/en/1
 * `Mock<T>.RaiseAsync` method for raising "async" events, i.e. events that use a `Func<..., Task>` or `Func<..., ValueTask>` delegate. (@stakx, #1313)
 * `setup.Verifiable(Times times, [string failMessage])` method to specify the expected number of calls upfront. `mock.Verify[All]` can then be used to check whether the setup was called that many times. The upper bound (maximum allowed number of calls) will be checked right away, i.e. whenever a setup gets called. (@stakx, #1319)
 * Add `ThrowsAsync` methods for non-generic `ValueTask` (@johnthcall, #1235)
+* Updated Nuget.org link to OpenMoq instad of Moq (@dannylloyd, #2)
 
 #### Fixed
 
